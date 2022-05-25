@@ -1,0 +1,51 @@
+{
+  "language": {
+    "text": "Jezik",
+    "signedIn": "Prijavljeni ste kao",
+    "signOut": "Odjava"
+  },
+  "login": {
+    "username": "Korisničko ime",
+    "password": "Lozinka",
+    "login": "Prijava",
+    "placeholderUsername" : "Unesite korisničko ime",
+    "placeholderPassword" : "Lozinka",
+    "failed": "Došlo je do pogreške prilikom prijave, provjerite uneseno korisničko ime i lozinku te pokušajte ponovno."
+  },
+  "hardwareList": {
+    "hardware": "Hardver",
+    "newHardware" : "Unesi novi hardver"
+  },
+  "addHardware": {
+    "title" : "Unos Hardvera",
+    "subtitle" : "Unesi novi hardver",
+    "code": "Šifra:",
+    "name": "Naziv:",
+    "type": "Tip:",
+    "stock": "Broj komada na stanju:",
+    "price": "Cijena:",
+    "add": "Unesi",
+    "goBack": "Povratak",
+    "storage": "Pohrana podataka",
+    "other": "Ostalo"
+  },
+  "hardwareDetails": {
+    "title": "Detalji o",
+    "price": "Cijena:",
+    "installments": "Ovaj hardver se može kupiti na 6 rata",
+    "reviewTitle": "Recenzije za ovaj hardver",
+    "noReviews": "Trenutno nema recenzija za ovaj hardver",
+    "goBack": "Povratak"
+  },
+  "hardwareButton": {
+    "title": "Hardveri"
+  },
+  "forbidden": {
+    "title": "Nemate pravo pristupa traženoj stranici!",
+    "return": "Povratak na početnu stranicu"
+  },
+  "notFound": {
+    "title": "Tražena stranica nije pronađena",
+    "return": "Povratak na početnu stranicu"
+  }
+}

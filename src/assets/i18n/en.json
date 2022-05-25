@@ -1,0 +1,51 @@
+{
+  "language": {
+    "text": "Language",
+    "signedIn": "You are logged in as",
+    "signOut": "Sign out"
+  },
+  "login": {
+    "username": "Username",
+    "password": "Password",
+    "login": "Sign in",
+    "placeholderUsername" : "Enter your username",
+    "placeholderPassword" : "Password",
+    "failed": "There has been an error. Check the provided username and password, then try again."
+  },
+  "hardwareList": {
+    "hardware": "Hardware",
+    "newHardware" : "Add new hardware"
+  },
+  "addHardware": {
+    "title" : "Hardware entry",
+    "subtitle" : "Add new hardware",
+    "code": "Code:",
+    "name": "Name:",
+    "type": "Type:",
+    "stock": "Stock:",
+    "price": "Price:",
+    "add": "Add",
+    "goBack": "Go back",
+    "storage": "Data storage",
+    "other": "Other"
+  },
+  "hardwareDetails": {
+    "title": "Details about",
+    "price": "Price:",
+    "installments": "This hardware can be bought in 6 installments",
+    "reviewTitle": "Reviews:",
+    "noReviews": "This hardware currently has no reviews",
+    "goBack": "Go back"
+  },
+  "hardwareButton": {
+    "title": "Hardware"
+  },
+  "forbidden": {
+    "title": "You dont have sufficient permissions to access this website!",
+    "return": "Back to homepage"
+  },
+  "notFound": {
+    "title": "The requested page doesn't exist",
+    "return": "Back to homepage"
+  }
+}

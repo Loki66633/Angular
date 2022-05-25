@@ -1,0 +1,12 @@
+<span><u>{{ 'language.text' | translate }}</u></span><br>
+<button style="width: 75px" (click)="switchLanguage('hr')"> <img src="../assets/img/hr.png"  height="32px" alt="hr"> </button>
+<button style="width: 75px" (click)="switchLanguage('en')"> <img src="../assets/img/en.png"  height="32px" alt="en"> </button>
+
+<div class="container-fluid">
+  <div class="w-100 text-end" *ngIf="authenticationService.isUserAuthenticated()">{{ 'language.signedIn' | translate }}
+    <strong>{{authenticationService.getAuthenticatedUserUsername()}}</strong> | <a href="#" (click)="logout()" class="link-primary">{{ 'language.signOut' | translate }}</a>
+  </div>
+  <div class="m-5">
+    <router-outlet></router-outlet>
+  </div>
+</div>
